@@ -52,6 +52,9 @@ const Header = () => {
           <span className="span">Series</span>
         </Link>
       </div>
+      <button className="px-4 ml-auto border py-1.5 rounded font-medium hover:bg-white hover:text-black tracking-wide transition duration-200 uppercase">
+        login
+      </button>
     </div>
   );
 };
